@@ -4,7 +4,7 @@
 title: Bryan Lim
 
 # Short description of your site
-description: Document and share random things that I enjoy
+description: Bryan's Personal Web Page
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,15 +20,16 @@ description: Document and share random things that I enjoy
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "index"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
   Research: 
   Projects:
   CV:
   Blog:
 
+#Resources:
+  # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  # - Learn markdown: "http://www.markdowntutorial.com/"
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/prof_pic_bryan.jpg"
@@ -69,10 +70,11 @@ author:
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-social-network-links:
-  rss: true
+social-network-links: 
+  email: "bryanlwt@mit.edu"
   github: limbryan
   linkedin: https://www.linkedin.com/in/bryan-lim-555065179/
+ #rss: true
 # twitter: daattali
 #  reddit: yourname
 #  xing: yourname
@@ -85,7 +87,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  email: "bryanlwt@mited.com"
+
 #  facebook: deanat
 
 # Select which share links to show in posts
