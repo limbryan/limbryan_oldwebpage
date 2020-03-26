@@ -21,10 +21,10 @@ description: Bryan's Personal Web Page
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  Research: 
-  Projects:
+  Research: "research"
+  Projects: "projects"
   CV:
-  Blog:
+  Blog: "blog"
 
 # About Me: "aboutme"
 #Resources:
