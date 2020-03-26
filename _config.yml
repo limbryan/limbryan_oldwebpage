@@ -21,12 +21,12 @@ description: Bryan's Personal Web Page
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  About Me: "aboutme"
   Research: 
   Projects:
   CV:
   Blog:
 
+# About Me: "aboutme"
 #Resources:
   # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   # - Learn markdown: "http://www.markdowntutorial.com/"
