@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bryan Lim
-subtitle: Document and share things I find interesting
+subtitle: 
 use-site-title: true
 ---
 
