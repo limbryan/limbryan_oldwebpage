@@ -1,6 +1,6 @@
 ---
 title: Projects
-bigimg: /img/banners/devel.jpg
+bigimg:
 recon-list:
   - name: distcrete
     desc: Discretized probability distributions.
